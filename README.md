@@ -1,8 +1,6 @@
 # EXPERIMENT-02-INTERFACING-A-DIGITAL-INPUT-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:** 19-05-2026
-
 **NAME:** V M KAVIYA
 
 **ROLL NO:** 212224040154
@@ -207,12 +205,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## OUTPUT
 
-<img width="1201" height="1600" alt="image" src="https://github.com/user-attachments/assets/78343751-c126-434f-b73c-d8e6fb33f76d" />
+<img width="583" height="492" alt="image" src="https://github.com/user-attachments/assets/0bda9f2a-de98-46d3-b907-7dd31e94ccb7" />
 
-
-<img width="1201" height="1600" alt="image" src="https://github.com/user-attachments/assets/1cd9d995-419e-4504-99f5-7725646a9035" />
-
-
+<img width="658" height="613" alt="image" src="https://github.com/user-attachments/assets/eb1f9a99-d912-4cea-a8cc-e28010c59d05" />
 
 ## Result
 
